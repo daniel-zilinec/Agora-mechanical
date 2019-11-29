@@ -1,0 +1,533 @@
+# ZW3D OBJ Exporter v2.1 - (c)2017 ZWCAD Software Co.
+# Created: 2019.11.26 19:11:04
+
+newmtl material_000
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.505882 0.533333 0.54902
+ Kd 0.505882 0.533333 0.54902
+ Ks 1 1 1
+
+newmtl material_001
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.505882 0.533333 0.54902
+ Kd 0.505882 0.533333 0.54902
+ Ks 1 1 1
+
+newmtl material_002
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.505882 0.533333 0.54902
+ Kd 0.505882 0.533333 0.54902
+ Ks 1 1 1
+
+newmtl material_003
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.505882 0.533333 0.54902
+ Kd 0.505882 0.533333 0.54902
+ Ks 1 1 1
+
+newmtl material_004
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.505882 0.533333 0.54902
+ Kd 0.505882 0.533333 0.54902
+ Ks 1 1 1
+
+newmtl material_005
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.505882 0.533333 0.54902
+ Kd 0.505882 0.533333 0.54902
+ Ks 1 1 1
+
+newmtl material_006
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.745098 0.901961 0.960784
+ Kd 0.745098 0.901961 0.960784
+ Ks 1 1 1
+
+newmtl material_007
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.505882 0.533333 0.54902
+ Kd 0.505882 0.533333 0.54902
+ Ks 1 1 1
+
+newmtl material_008
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.745098 0.901961 0.960784
+ Kd 0.745098 0.901961 0.960784
+ Ks 1 1 1
+
+newmtl material_009
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.745098 0.901961 0.960784
+ Kd 0.745098 0.901961 0.960784
+ Ks 1 1 1
+
+newmtl material_010
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.745098 0.901961 0.960784
+ Kd 0.745098 0.901961 0.960784
+ Ks 1 1 1
+
+newmtl material_011
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.745098 0.901961 0.960784
+ Kd 0.745098 0.901961 0.960784
+ Ks 1 1 1
+
+newmtl material_012
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.505882 0.533333 0.54902
+ Kd 0.505882 0.533333 0.54902
+ Ks 1 1 1
+
+newmtl material_013
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.505882 0.533333 0.54902
+ Kd 0.505882 0.533333 0.54902
+ Ks 1 1 1
+
+newmtl material_014
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.745098 0.901961 0.960784
+ Kd 0.745098 0.901961 0.960784
+ Ks 1 1 1
+
+newmtl material_015
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.745098 0.901961 0.960784
+ Kd 0.745098 0.901961 0.960784
+ Ks 1 1 1
+
+newmtl material_016
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.745098 0.901961 0.960784
+ Kd 0.745098 0.901961 0.960784
+ Ks 1 1 1
+
+newmtl material_017
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.505882 0.533333 0.54902
+ Kd 0.505882 0.533333 0.54902
+ Ks 1 1 1
+
+newmtl material_018
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.505882 0.533333 0.54902
+ Kd 0.505882 0.533333 0.54902
+ Ks 1 1 1
+
+newmtl material_019
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.505882 0.533333 0.54902
+ Kd 0.505882 0.533333 0.54902
+ Ks 1 1 1
+
+newmtl material_020
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.505882 0.533333 0.54902
+ Kd 0.505882 0.533333 0.54902
+ Ks 1 1 1
+
+newmtl material_021
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.505882 0.533333 0.54902
+ Kd 0.505882 0.533333 0.54902
+ Ks 1 1 1
+
+newmtl material_022
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.505882 0.533333 0.54902
+ Kd 0.505882 0.533333 0.54902
+ Ks 1 1 1
+
+newmtl material_023
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.505882 0.533333 0.54902
+ Kd 0.505882 0.533333 0.54902
+ Ks 1 1 1
+
+newmtl material_024
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.505882 0.533333 0.54902
+ Kd 0.505882 0.533333 0.54902
+ Ks 1 1 1
+
+newmtl material_025
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.505882 0.533333 0.54902
+ Kd 0.505882 0.533333 0.54902
+ Ks 1 1 1
+
+newmtl material_026
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.505882 0.533333 0.54902
+ Kd 0.505882 0.533333 0.54902
+ Ks 1 1 1
+
+newmtl material_027
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.745098 0.901961 0.960784
+ Kd 0.745098 0.901961 0.960784
+ Ks 1 1 1
+
+newmtl material_028
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.745098 0.901961 0.960784
+ Kd 0.745098 0.901961 0.960784
+ Ks 1 1 1
+
+newmtl material_029
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.745098 0.901961 0.960784
+ Kd 0.745098 0.901961 0.960784
+ Ks 1 1 1
+
+newmtl material_030
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.745098 0.901961 0.960784
+ Kd 0.745098 0.901961 0.960784
+ Ks 1 1 1
+
+newmtl material_031
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.745098 0.901961 0.960784
+ Kd 0.745098 0.901961 0.960784
+ Ks 1 1 1
+
+newmtl material_032
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.745098 0.901961 0.960784
+ Kd 0.745098 0.901961 0.960784
+ Ks 1 1 1
+
+newmtl material_033
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.505882 0.533333 0.54902
+ Kd 0.505882 0.533333 0.54902
+ Ks 1 1 1
+
+newmtl material_034
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.505882 0.533333 0.54902
+ Kd 0.505882 0.533333 0.54902
+ Ks 1 1 1
+
+newmtl material_035
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.505882 0.533333 0.54902
+ Kd 0.505882 0.533333 0.54902
+ Ks 1 1 1
+
+newmtl material_036
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.745098 0.901961 0.960784
+ Kd 0.745098 0.901961 0.960784
+ Ks 1 1 1
+
+newmtl material_037
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.745098 0.901961 0.960784
+ Kd 0.745098 0.901961 0.960784
+ Ks 1 1 1
+
+newmtl material_038
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.745098 0.901961 0.960784
+ Kd 0.745098 0.901961 0.960784
+ Ks 1 1 1
+
+newmtl material_039
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.745098 0.901961 0.960784
+ Kd 0.745098 0.901961 0.960784
+ Ks 1 1 1
+
+newmtl material_040
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.745098 0.901961 0.960784
+ Kd 0.745098 0.901961 0.960784
+ Ks 1 1 1
+
+newmtl material_041
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.745098 0.901961 0.960784
+ Kd 0.745098 0.901961 0.960784
+ Ks 1 1 1
+
+newmtl material_042
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.745098 0.901961 0.960784
+ Kd 0.745098 0.901961 0.960784
+ Ks 1 1 1
+
+newmtl material_043
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.745098 0.901961 0.960784
+ Kd 0.745098 0.901961 0.960784
+ Ks 1 1 1
+
+newmtl material_044
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.745098 0.901961 0.960784
+ Kd 0.745098 0.901961 0.960784
+ Ks 1 1 1
+
+newmtl material_045
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.745098 0.901961 0.960784
+ Kd 0.745098 0.901961 0.960784
+ Ks 1 1 1
+
+newmtl material_046
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.745098 0.901961 0.960784
+ Kd 0.745098 0.901961 0.960784
+ Ks 1 1 1
+
+newmtl material_047
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.505882 0.533333 0.54902
+ Kd 0.505882 0.533333 0.54902
+ Ks 1 1 1
+
+newmtl material_048
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.745098 0.901961 0.960784
+ Kd 0.745098 0.901961 0.960784
+ Ks 1 1 1
+
+newmtl material_049
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.745098 0.901961 0.960784
+ Kd 0.745098 0.901961 0.960784
+ Ks 1 1 1
+
+newmtl material_050
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.505882 0.533333 0.54902
+ Kd 0.505882 0.533333 0.54902
+ Ks 1 1 1
+
+newmtl material_051
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.745098 0.901961 0.960784
+ Kd 0.745098 0.901961 0.960784
+ Ks 1 1 1
+
+newmtl material_052
+ Ns 500
+ d 1
+ Tr 0
+ Tf 1 1 1
+ illum 2
+ Ka 0.745098 0.901961 0.960784
+ Kd 0.745098 0.901961 0.960784
+ Ks 1 1 1
+
